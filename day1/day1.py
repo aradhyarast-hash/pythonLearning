@@ -1,6 +1,4 @@
-import pyjokes
-joke = pyjokes.get_jokes();
-print(joke)
+
 
 print('''
 Catch me if you can, working on my tan
