@@ -1,0 +1,1 @@
+print(word[w])  #this gives error with non-familar key
