@@ -1,0 +1,4 @@
+square = lambda x : x*x
+square(5)
+sum = lambda a,b,c : a+b+c
+print(sum(1,2,3))
